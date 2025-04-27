@@ -1,0 +1,50 @@
+body {
+  background-color: rgba(0, 0, 255, 0.3);
+
+}
+h1 {
+  border-top : 1px solid red;
+   
+    background-color: rgba(255, 215, 0, 0.3);
+    width: 300px;
+    color : black;
+border-radius: 25px;
+padding-left: 25px;
+}
+
+
+button{
+
+  background-color: rgba(0, 255, 0, 0.3);
+  color: black;
+  border: solid 1 black;
+    
+  padding: 10px 20px;
+  text-align: center;
+  
+  font:  inherit;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 12px;
+
+}
+#fondo{
+  background-color:white;
+  border: 1px solid black;
+  padding: 20px;
+  border-radius: 15px;
+}
+p{
+    background-color: rgba(255, 215, 0, 0.3);
+    border: 1px solid black;
+    padding: 10px;
+  
+}
+#imagen{
+  display:flex;
+    align-items: center;
+    justify-content: center;
+width: 100%;
+    
+}
